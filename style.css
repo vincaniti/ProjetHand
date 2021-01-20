@@ -6,6 +6,7 @@ h1, h2{
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-style: italic;
+    text-decoration: underline;
 }
 
 p{
@@ -25,6 +26,7 @@ li{
 }
 
 
+
 #DivBottom{
     padding-top: 15px;
     
@@ -38,5 +40,7 @@ li{
     font-weight: bold;
     text-align: center;
     font-style: italic;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
